@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nestor22&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-
+**This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
 JavaScript   15 hrs 31 mins  ███████████████████▒░░░░░   77.40 % 
@@ -28,3 +28,5 @@ Other        50 mins         █░░░░░░░░░░░░░░░░
 JSX          38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 <!--END_SECTION:waka-->
+
+
