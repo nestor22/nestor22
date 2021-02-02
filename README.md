@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-<img bg_color="#000" style="background: #000" height="180em" src="https://github-readme-stats.vercel.app/api?username=nestor22&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-![Nestor's GitHub stats](https://github-readme-stats.vercel.app/api?username=nestor22&show_icons=true&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nestor22&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nestor22&show_icons=true&theme=radical" />
+
+
+
 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
