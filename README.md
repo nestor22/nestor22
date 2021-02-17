@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 36 mins    ███████▒░░░░░░░░░░░░░░░░░   29.78 % 
-TypeScript   1 hr 26 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.66 % 
-CSS          1 hr 14 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.93 % 
-Other        24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Text         21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+TypeScript   1 hr 26 mins    ███████▒░░░░░░░░░░░░░░░░░   29.29 % 
+JSX          1 hr 9 mins     ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+JavaScript   1 hr 5 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.18 % 
+Other        1 hr 5 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.02 % 
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 <!--END_SECTION:waka-->
 
