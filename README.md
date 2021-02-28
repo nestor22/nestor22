@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Python   9 mins          ███████████████▓░░░░░░░░░   62.22 % 
-Other    5 mins          █████████▒░░░░░░░░░░░░░░░   37.78 % 
+
 ```
 <!--END_SECTION:waka-->
 
