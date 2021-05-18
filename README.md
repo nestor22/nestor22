@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   12 mins         █████████████████████████   99.88 % 
+
 ```
 <!--END_SECTION:waka-->
 
