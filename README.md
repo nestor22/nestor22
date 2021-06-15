@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSX     43 mins         █████████████████▓░░░░░░░   70.52 % 
+SCSS    17 mins         ███████░░░░░░░░░░░░░░░░░░   28.44 % 
 ```
 <!--END_SECTION:waka-->
 
