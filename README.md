@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-TypeScript   28 mins         ███████████░░░░░░░░░░░░░░   43.63 % 
-HTML         27 mins         ██████████▓░░░░░░░░░░░░░░   43.26 % 
-CSS          8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+JSX          1 hr 30 mins    █████████████████▒░░░░░░░   69.52 % 
+HTML         24 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.97 % 
+TypeScript   11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+CSS          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 ```
 <!--END_SECTION:waka-->
 
