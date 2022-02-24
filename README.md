@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   20 mins         ████████████░░░░░░░░░░░░░   48.31 % 
-Docker       18 mins         ███████████░░░░░░░░░░░░░░   44.37 % 
-JSON         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+JavaScript   51 mins         ██████████████▓░░░░░░░░░░   58.11 % 
+Docker       18 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.29 % 
+YAML         14 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+JSON         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 ```
 <!--END_SECTION:waka-->
 
