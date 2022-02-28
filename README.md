@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   51 mins         ██████████▒░░░░░░░░░░░░░░   41.98 % 
-Other        23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.32 % 
-Docker       15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-YAML         14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-JSON         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+JavaScript   47 mins         ████████░░░░░░░░░░░░░░░░░   32.31 %
+YAML         39 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.79 %
+Other        34 mins         ██████░░░░░░░░░░░░░░░░░░░   23.99 %
 ```
+
 <!--END_SECTION:waka-->
 
 
