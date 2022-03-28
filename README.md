@@ -25,9 +25,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Docker       29 mins         █████████████████▓░░░░░░░   70.58 %
-JavaScript   6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
-Other        2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
